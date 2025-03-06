@@ -9,3 +9,4 @@ class SwagLabsLocators:
     click_shoppingcar = (By.CLASS_NAME, 'shopping_cart_link')
     remove_backpack = (By.XPATH, '//*[@id="remove-sauce-labs-backpack"]')
 
+

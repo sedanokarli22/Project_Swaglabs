@@ -10,6 +10,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from data import swags_labs, username
 
 
+
 class TestSwagLabs:
     driver = None
     @classmethod
